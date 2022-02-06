@@ -2,9 +2,7 @@
 Robot project files
 
 # Raspi-Tracked-Robot
-This robot was completed as part of a school project for Cegep Gerald-Godin with the help of Professor Mauricio Gomez
-All 3d models made by Mauricio Gomez @mgomez1974
-https://github.com/mgomez1974/RASPI
+This robot was completed for Cegep Gerald-Godin.
 
 This repository contains all the codes and project files for a tracked robot.
 This robot uses a Arduino Due and a raspberry pi and many sensors.
